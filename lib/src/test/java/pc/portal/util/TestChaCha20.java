@@ -1,4 +1,4 @@
-package net.clarenceho.util;
+package pc.portal.util;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

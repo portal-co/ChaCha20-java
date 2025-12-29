@@ -1,4 +1,4 @@
-package net.clarenceho.util;
+package pc.portal.util;
 
 /*
  * Quick-n-dirty standalone implementation of ChaCha 256-bit
