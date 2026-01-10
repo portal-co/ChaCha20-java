@@ -1,5 +1,8 @@
-# ChaCha20
-Quick-n-dirty standalone Java implementation of ChaCha20 (256-bit key, 64- or 96-bit nonce). Do NOT use this unless you know what you are doing.  Use the JDK library or Bouncy Castle library instead.
+# ChaCha20-java
+
+## Description
+Quick-n-dirty standalone Java implementation of ChaCha20 (256-bit key, 64- or 96-bit nonce).
+**Warning**: Do NOT use this unless you know what you are doing. Use the JDK library or Bouncy Castle library instead.
 
 References:
 * http://cr.yp.to/chacha/chacha-20080128.pdf
@@ -8,10 +11,11 @@ References:
 * https://github.com/jotcmd/chacha20
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement ChaCha20 encryption/decryption
+- [ ] Verify against test vectors
 
 ## Progress
-- [ ] Initial setup
+- [ ] Initial Gradle project setup
 
 ---
 *AI assisted*
