@@ -6,3 +6,12 @@ References:
 * https://tools.ietf.org/html/draft-irtf-cfrg-chacha20-poly1305-01
 * https://github.com/quartzjer/chacha20
 * https://github.com/jotcmd/chacha20
+
+## Goals
+- [ ] Add project goals
+
+## Progress
+- [ ] Initial setup
+
+---
+*AI assisted*
